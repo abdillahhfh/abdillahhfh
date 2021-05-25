@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @abdillahhfh
 - 👀 I’m interested in Python and Java, especially Back-end
-- 🌱 I’m currently learning Java and PHP
-- 💞️ I’m looking to collaborate on -
-- 📫 How to reach me -
+- 🌱 I’m currently learning Java, Python, and PHP
+- 📫 Instagram: @abdillahh_fh
 
 <!---
 abdillahhfh/abdillahhfh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
